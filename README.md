@@ -13,4 +13,5 @@ Análise Exploratória de Dados
 Conclusões e Insights
 Recomendações
 
-tecnologias usadas: Lemguaguem Phyton.
+Tecnologias usadas: Lemguaguem Phyton e bibliotecas: pandas, numpy,matplotlib, seaborn.
+Para executar as células, ela pedirá que você faça o upload do seu arquivo .json com os dados dos clientes.
